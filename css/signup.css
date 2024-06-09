@@ -1,0 +1,31 @@
+
+body{
+    background-color: #24353f;
+}
+
+
+.form-control{
+    display: inline;
+}
+
+h1{
+    color: #17a2b8;
+}
+
+.myBtn{
+    border-color: #17a2b8;
+    color: white;
+    background-color: transparent;
+    transition: .5s;
+}
+.myBtn:hover{
+    background-color: #17a2b8;
+    color: black;
+}
+#loginBtn{
+    cursor: pointer;
+}
+#loginBtn:hover{
+    text-decoration: underline;
+}
+

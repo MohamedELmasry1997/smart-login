@@ -1,0 +1,30 @@
+body {
+  background-color: #24353f;
+}
+
+.form-control {
+  display: inline;
+}
+
+h1 {
+  color: #17a2b8;
+}
+
+.myBtn {
+  border-color: #17a2b8;
+  color: white;
+  background-color: transparent;
+  transition: 0.5s;
+}
+.myBtn:hover {
+  background-color: #17a2b8;
+  color: black;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+a:hover {
+  color: white;
+  text-decoration: underline;
+}
